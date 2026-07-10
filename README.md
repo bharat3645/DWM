@@ -43,11 +43,11 @@ Welcome to the Data Warehouse and Data Mining Practicals repository! This reposi
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/bharat3645/DWM.git
     ```
 2. Navigate to the folder:
     ```bash
-    cd your-repo-name
+    cd DWM
     ```
 3. Open the notebooks using Jupyter Notebook or JupyterLab:
     ```bash
@@ -56,5 +56,6 @@ Welcome to the Data Warehouse and Data Mining Practicals repository! This reposi
 
 ---
 
+## 🔗 Related Repository
 
-
+This repo holds the topic-organized versions of the Data Warehousing and Mining coursework. The numbered, practical-by-practical submissions for the same course live in the companion repo: [DWM-LAB](https://github.com/bharat3645/DWM-LAB).
